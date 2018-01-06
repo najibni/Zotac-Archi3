@@ -1,0 +1,663 @@
+Jun 20 16:33 : exception: Failed to open /home/njb/.config/mpd/state: No such file or directory
+Jun 20 16:33 : update: added /07. Monday Elation - Sleep on a Sofa (Ibiza's Sofa Mix).mp3
+Jun 20 16:33 : update: added /18. Miles Rodgers - You Are.mp3
+Jun 20 16:33 : update: added /02. Sarah Martin - Love Is Stronger Than Pride.mp3
+Jun 20 16:33 : update: added /15. UK One - You Need Love.mp3
+Jun 20 16:33 : update: added /20. Tiny Thomas - Viva La Vida.mp3
+Jun 20 16:33 : update: added /01. Emilie Garcia - We Don't Need Another Hero.mp3
+Jun 20 16:33 : update: added /16. James Walden - Guitar Dreams.mp3
+Jun 20 16:33 : update: added /09. Nicolette Cross - Open the Window (Emotional & Chill Mix).mp3
+Jun 20 16:33 : update: added /08. Jason Gallagher - One More Try.mp3
+Jun 20 16:33 : update: added /12. Duane Alpert - Cool Experience (Laurent Paradise Mix).mp3
+Jun 20 16:33 : update: added /10. Ricardo Hatcher - Diving.mp3
+Jun 20 16:33 : update: added /11. Dave Palmer - Venezia (Love in the City Mix).mp3
+Jun 20 16:33 : update: added /05. Acqua Panna - To Love Somebody.mp3
+Jun 20 16:33 : update: added /19. Steven Pearce - Sorry Seems to Be the Hardest Word.mp3
+Jun 20 16:33 : update: added /04. Brandon Love - No Woman No Cry.mp3
+Jun 20 16:33 : update: added /13. Exotic Liar - Fresh Fruits.mp3
+Jun 20 16:33 : update: added /06. Mark Mars - Ship's Lounge (Downtown Slow Mix).mp3
+Jun 20 16:33 : update: added /03. The Chill-Out Orchestra - The Sound of Silence.mp3
+Jun 20 16:33 : update: added /14. Jack Izzard - Deep Relax (Chillin' Groove Mix).mp3
+Jun 20 16:33 : update: added /17. Stefano Favelli - Notturno.mp3
+Jun 20 16:33 : avahi: Service 'Music Player' successfully established.
+Jun 20 16:34 : client: [0] opened from [::1]:37102
+Jun 20 16:34 : client: [0] closed
+Jun 20 16:47 : client: [1] opened from [::1]:37554
+Jun 20 16:48 : player: played "13. Exotic Liar - Fresh Fruits.mp3"
+Jun 20 16:49 : client: [1] closed
+Jun 20 20:37 : avahi: Service 'Music Player' successfully established.
+Jun 20 20:40 : avahi: Service 'Music Player' successfully established.
+Jun 20 21:02 : client: [0] opened from 127.0.0.1:52460
+Jun 20 21:14 : player: played "13. Exotic Liar - Fresh Fruits.mp3"
+Jun 20 21:15 : client: [0] closed
+Jun 20 22:57 : avahi: Service 'Music Player' successfully established.
+Jun 20 22:58 : client: [0] opened from 127.0.0.1:35036
+Jun 20 22:59 : player: played "13. Exotic Liar - Fresh Fruits.mp3"
+Jun 20 22:59 : client: [0] closed
+Jun 21 09:59 : avahi: Service 'Music Player' successfully established.
+Jun 22 10:09 : avahi: Service 'Music Player' successfully established.
+Jun 22 10:12 : avahi: Service 'Music Player' successfully established.
+Jun 23 11:50 : avahi: Service 'Music Player' successfully established.
+Jun 23 11:54 : avahi: Service 'Music Player' successfully established.
+Jun 23 12:34 : avahi: Service 'Music Player' successfully established.
+Jun 23 13:07 : avahi: Service 'Music Player' successfully established.
+Jun 23 21:26 : avahi: Client Disconnected, will reconnect shortly
+Jun 24 10:22 : avahi: Service 'Music Player' successfully established.
+Jun 24 11:22 : avahi: Service 'Music Player' successfully established.
+Jun 24 13:11 : avahi: Service 'Music Player' successfully established.
+Jun 24 20:19 : avahi: Client Disconnected, will reconnect shortly
+Jun 25 13:58 : avahi: Service 'Music Player' successfully established.
+Jun 26 10:56 : avahi: Service 'Music Player' successfully established.
+Jun 26 14:15 : avahi: Service 'Music Player' successfully established.
+Jun 26 18:59 : avahi: Service 'Music Player' successfully established.
+Jun 26 19:09 : avahi: Service 'Music Player' successfully established.
+Jun 27 09:57 : avahi: Service 'Music Player' successfully established.
+Jun 27 20:20 : avahi: Client Disconnected, will reconnect shortly
+Jun 28 11:24 : avahi: Service 'Music Player' successfully established.
+Jun 30 16:49 : avahi: Service 'Music Player' successfully established.
+Jun 30 17:27 : avahi: Service 'Music Player' successfully established.
+Jul 01 09:42 : avahi: Service 'Music Player' successfully established.
+Jul 02 12:01 : avahi: Service 'Music Player' successfully established.
+Jul 03 09:40 : avahi: Service 'Music Player' successfully established.
+Jul 03 21:43 : avahi: Client Disconnected, will reconnect shortly
+Jul 05 15:45 : avahi: Service 'Music Player' successfully established.
+Jul 05 16:11 : avahi: Service 'Music Player' successfully established.
+Jul 05 16:14 : client: [0] opened from 127.0.0.1:41252
+Jul 05 16:17 : player: played "13. Exotic Liar - Fresh Fruits.mp3"
+Jul 05 16:20 : client: [0] closed
+Jul 05 16:23 : avahi: Service 'Music Player' successfully established.
+Jul 05 16:33 : avahi: Service 'Music Player' successfully established.
+Jul 07 11:37 : avahi: Service 'Music Player' successfully established.
+Jul 07 11:50 : avahi: Service 'Music Player' successfully established.
+Jul 09 09:58 : avahi: Service 'Music Player' successfully established.
+Jul 09 13:20 : avahi: Client Disconnected, will reconnect shortly
+Jul 09 14:58 : avahi: Service 'Music Player' successfully established.
+Jul 10 10:57 : avahi: Service 'Music Player' successfully established.
+Jul 11 09:38 : avahi: Service 'Music Player' successfully established.
+Jul 11 10:14 : avahi: Service 'Music Player' successfully established.
+Jul 12 10:16 : avahi: Service 'Music Player' successfully established.
+Jul 13 09:40 : avahi: Service 'Music Player' successfully established.
+Jul 13 21:49 : avahi: Client Disconnected, will reconnect shortly
+Jul 14 10:00 : avahi: Service 'Music Player' successfully established.
+Jul 15 10:01 : avahi: Service 'Music Player' successfully established.
+Jul 16 08:48 : avahi: Service 'Music Player' successfully established.
+Jul 17 09:25 : avahi: Service 'Music Player' successfully established.
+Jul 17 10:07 : avahi: Service 'Music Player' successfully established.
+Jul 17 17:31 : avahi: Service 'Music Player' successfully established.
+Jul 17 18:02 : avahi: Service 'Music Player' successfully established.
+Jul 17 18:38 : avahi: Service 'Music Player' successfully established.
+Jul 18 10:00 : avahi: Service 'Music Player' successfully established.
+Jul 18 15:00 : avahi: Service 'Music Player' successfully established.
+Jul 18 15:05 : avahi: Service 'Music Player' successfully established.
+Jul 19 09:14 : avahi: Service 'Music Player' successfully established.
+Jul 20 09:19 : avahi: Service 'Music Player' successfully established.
+Jul 20 17:24 : avahi: Service 'Music Player' successfully established.
+Jul 20 17:39 : avahi: Service 'Music Player' successfully established.
+Jul 20 18:00 : avahi: Service 'Music Player' successfully established.
+Jul 21 09:51 : avahi: Service 'Music Player' successfully established.
+Jul 21 13:57 : avahi: Service 'Music Player' successfully established.
+Jul 22 11:11 : avahi: Service 'Music Player' successfully established.
+Jul 23 09:51 : avahi: Service 'Music Player' successfully established.
+Jul 25 12:52 : avahi: Service 'Music Player' successfully established.
+Jul 25 19:54 : avahi: Service 'Music Player' successfully established.
+Jul 26 16:48 : avahi: Service 'Music Player' successfully established.
+Jul 26 18:36 : avahi: Client Disconnected, will reconnect shortly
+Jul 27 16:32 : avahi: Service 'Music Player' successfully established.
+Jul 27 18:03 : avahi: Service 'Music Player' successfully established.
+Jul 28 12:23 : avahi: Service 'Music Player' successfully established.
+Jul 28 13:00 : avahi: Service 'Music Player' successfully established.
+Jul 28 13:01 : avahi: Service 'Music Player' successfully established.
+Jul 28 14:37 : avahi: Service 'Music Player' successfully established.
+Jul 31 11:43 : avahi: Service 'Music Player' successfully established.
+Jul 31 13:03 : avahi: Service 'Music Player' successfully established.
+Jul 31 13:21 : avahi: Service 'Music Player' successfully established.
+Aug 02 18:38 : avahi: Service 'Music Player' successfully established.
+Aug 03 13:48 : avahi: Service 'Music Player' successfully established.
+Aug 03 14:47 : avahi: Service 'Music Player' successfully established.
+Aug 03 18:40 : avahi: Service 'Music Player' successfully established.
+Aug 03 18:47 : avahi: Service 'Music Player' successfully established.
+Aug 03 18:59 : avahi: Client Disconnected, will reconnect shortly
+Aug 03 18:59 : avahi: Service 'Music Player' successfully established.
+Aug 03 19:03 : avahi: Service 'Music Player' successfully established.
+Aug 04 09:27 : avahi: Service 'Music Player' successfully established.
+Aug 04 12:01 : avahi: Service 'Music Player' successfully established.
+Aug 04 22:36 : avahi: Service 'Music Player' successfully established.
+Aug 05 10:19 : avahi: Service 'Music Player' successfully established.
+Aug 06 09:44 : avahi: Service 'Music Player' successfully established.
+Aug 07 08:48 : avahi: Service 'Music Player' successfully established.
+Aug 07 16:47 : avahi: Service 'Music Player' successfully established.
+Aug 08 09:50 : avahi: Service 'Music Player' successfully established.
+Aug 09 17:21 : avahi: Service 'Music Player' successfully established.
+Aug 10 09:10 : avahi: Service 'Music Player' successfully established.
+Aug 10 13:30 : avahi: Service 'Music Player' successfully established.
+Aug 10 13:36 : avahi: Service 'Music Player' successfully established.
+Aug 11 09:43 : avahi: Service 'Music Player' successfully established.
+Aug 12 09:06 : avahi: Service 'Music Player' successfully established.
+Aug 12 10:14 : avahi: Service 'Music Player' successfully established.
+Aug 12 10:35 : avahi: Service 'Music Player' successfully established.
+Aug 12 10:56 : avahi: Service 'Music Player' successfully established.
+Aug 12 11:21 : avahi: Service 'Music Player' successfully established.
+Aug 13 09:39 : avahi: Service 'Music Player' successfully established.
+Aug 13 16:56 : avahi: Service 'Music Player' successfully established.
+Aug 14 10:09 : avahi: Service 'Music Player' successfully established.
+Aug 14 10:49 : avahi: Service 'Music Player' successfully established.
+Aug 14 11:19 : avahi: Service 'Music Player' successfully established.
+Aug 14 18:05 : avahi: Service 'Music Player' successfully established.
+Aug 15 09:06 : avahi: Service 'Music Player' successfully established.
+Aug 15 13:50 : avahi: Client Disconnected, will reconnect shortly
+Aug 15 13:50 : avahi: Service 'Music Player' successfully established.
+Aug 15 21:10 : avahi: Client Disconnected, will reconnect shortly
+Aug 16 08:48 : avahi: Service 'Music Player' successfully established.
+Aug 16 11:04 : avahi: Service 'Music Player' successfully established.
+Aug 16 13:09 : avahi: Client Disconnected, will reconnect shortly
+Aug 16 13:09 : avahi: Service 'Music Player' successfully established.
+Aug 17 10:23 : avahi: Service 'Music Player' successfully established.
+Aug 17 18:34 : client: [0] opened from 127.0.0.1:45488
+Aug 17 18:48 : client: [0] closed
+Aug 17 18:48 : client: [1] opened from 127.0.0.1:45546
+Aug 17 18:51 : player: played "16. James Walden - Guitar Dreams.mp3"
+Aug 17 18:55 : client: [1] closed
+Aug 17 18:55 : client: [2] opened from 127.0.0.1:45588
+Aug 17 18:55 : client: [2] closed
+Aug 18 09:00 : player: played "17. Stefano Favelli - Notturno.mp3"
+Aug 18 09:18 : avahi: Service 'Music Player' successfully established.
+Aug 18 20:37 : avahi: Client Disconnected, will reconnect shortly
+Aug 18 20:37 : player: played "17. Stefano Favelli - Notturno.mp3"
+Aug 19 09:00 : avahi: Service 'Music Player' successfully established.
+Aug 19 21:12 : player: played "17. Stefano Favelli - Notturno.mp3"
+Aug 20 09:20 : avahi: Service 'Music Player' successfully established.
+Aug 20 21:12 : player: played "17. Stefano Favelli - Notturno.mp3"
+Aug 21 11:00 : avahi: Service 'Music Player' successfully established.
+Aug 21 20:14 : player: played "17. Stefano Favelli - Notturno.mp3"
+Aug 22 08:47 : avahi: Service 'Music Player' successfully established.
+Aug 22 20:58 : avahi: Client Disconnected, will reconnect shortly
+Aug 22 20:58 : player: played "17. Stefano Favelli - Notturno.mp3"
+Aug 23 07:30 : avahi: Service 'Music Player' successfully established.
+Aug 23 20:59 : player: played "17. Stefano Favelli - Notturno.mp3"
+Aug 24 09:13 : avahi: Service 'Music Player' successfully established.
+Aug 24 22:50 : player: played "17. Stefano Favelli - Notturno.mp3"
+Aug 25 10:09 : avahi: Service 'Music Player' successfully established.
+Aug 25 21:03 : player: played "17. Stefano Favelli - Notturno.mp3"
+Aug 26 09:36 : avahi: Service 'Music Player' successfully established.
+Aug 27 22:19 : player: played "17. Stefano Favelli - Notturno.mp3"
+Aug 28 08:48 : avahi: Service 'Music Player' successfully established.
+Aug 28 21:33 : player: played "17. Stefano Favelli - Notturno.mp3"
+Aug 29 09:50 : avahi: Service 'Music Player' successfully established.
+Aug 29 14:37 : player: played "17. Stefano Favelli - Notturno.mp3"
+Aug 29 18:16 : avahi: Service 'Music Player' successfully established.
+Aug 30 15:46 : player: played "17. Stefano Favelli - Notturno.mp3"
+Aug 30 17:48 : avahi: Service 'Music Player' successfully established.
+Aug 30 21:19 : player: played "17. Stefano Favelli - Notturno.mp3"
+Aug 31 10:35 : avahi: Service 'Music Player' successfully established.
+Aug 31 20:44 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 01 08:05 : avahi: Service 'Music Player' successfully established.
+Sep 01 21:05 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 02 08:32 : avahi: Service 'Music Player' successfully established.
+Sep 02 19:58 : avahi: Client Disconnected, will reconnect shortly
+Sep 02 19:58 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 03 09:26 : avahi: Service 'Music Player' successfully established.
+Sep 04 08:46 : avahi: Client Disconnected, will reconnect shortly
+Sep 04 08:46 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 04 08:51 : avahi: Service 'Music Player' successfully established.
+Sep 04 15:00 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 04 17:02 : avahi: Service 'Music Player' successfully established.
+Sep 04 20:51 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 05 07:56 : avahi: Service 'Music Player' successfully established.
+Sep 05 22:36 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 06 08:30 : avahi: Service 'Music Player' successfully established.
+Sep 06 23:11 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 07 11:05 : avahi: Service 'Music Player' successfully established.
+Sep 07 20:58 : avahi: Client Disconnected, will reconnect shortly
+Sep 07 20:58 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 08 08:54 : avahi: Service 'Music Player' successfully established.
+Sep 08 21:09 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 09 08:28 : avahi: Service 'Music Player' successfully established.
+Sep 09 20:24 : avahi: Client Disconnected, will reconnect shortly
+Sep 09 20:24 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 10 10:07 : avahi: Service 'Music Player' successfully established.
+Sep 11 09:44 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 11 09:51 : avahi: Service 'Music Player' successfully established.
+Sep 11 12:40 : avahi: Client Disconnected, will reconnect shortly
+Sep 11 12:40 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 11 12:41 : avahi: Service 'Music Player' successfully established.
+Sep 11 20:54 : avahi: Client Disconnected, will reconnect shortly
+Sep 11 20:54 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 12 08:59 : avahi: Service 'Music Player' successfully established.
+Sep 12 21:21 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 13 08:10 : avahi: Service 'Music Player' successfully established.
+Sep 13 20:48 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 14 08:38 : avahi: Service 'Music Player' successfully established.
+Sep 14 19:58 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 15 09:15 : avahi: Service 'Music Player' successfully established.
+Sep 16 08:22 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 16 08:33 : avahi: Service 'Music Player' successfully established.
+Sep 16 22:11 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 17 08:47 : avahi: Service 'Music Player' successfully established.
+Sep 17 21:09 : avahi: Client Disconnected, will reconnect shortly
+Sep 17 21:09 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 18 09:49 : avahi: Service 'Music Player' successfully established.
+Sep 18 20:46 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 19 09:24 : avahi: Service 'Music Player' successfully established.
+Sep 19 12:42 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 19 12:42 : avahi: Service 'Music Player' successfully established.
+Sep 19 17:25 : avahi: Service 'Music Player' successfully established.
+Sep 19 21:04 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 20 08:22 : avahi: Service 'Music Player' successfully established.
+Sep 20 09:14 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 20 09:14 : avahi: Service 'Music Player' successfully established.
+Sep 20 22:54 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 21 10:28 : avahi: Service 'Music Player' successfully established.
+Sep 21 22:46 : avahi: Client Disconnected, will reconnect shortly
+Sep 21 22:46 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 22 09:50 : avahi: Service 'Music Player' successfully established.
+Sep 23 08:28 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 23 08:41 : avahi: Service 'Music Player' successfully established.
+Sep 23 10:41 : client: [0] opened from 127.0.0.1:40940
+Sep 23 10:43 : client: [0] closed
+Sep 23 10:43 : client: [1] opened from 127.0.0.1:40956
+Sep 23 10:46 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 23 10:47 : avahi: Service 'Music Player' successfully established.
+Sep 23 10:47 : client: [0] opened from 127.0.0.1:41142
+Sep 23 10:51 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 23 10:53 : avahi: Service 'Music Player' successfully established.
+Sep 23 10:54 : client: [0] opened from 127.0.0.1:40294
+Sep 23 10:55 : client: [0] closed
+Sep 23 10:56 : client: [1] opened from 127.0.0.1:40310
+Sep 23 10:56 : client: [1] closed
+Sep 23 11:47 : client: [2] opened from 127.0.0.1:40496
+Sep 23 11:56 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 23 11:56 : avahi: Service 'Music Player' successfully established.
+Sep 23 12:04 : client: [0] opened from 127.0.0.1:41126
+Sep 23 12:10 : client: [0] closed
+Sep 23 20:45 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 24 09:08 : avahi: Service 'Music Player' successfully established.
+Sep 24 18:42 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 25 07:44 : avahi: Service 'Music Player' successfully established.
+Sep 26 09:19 : avahi: Client Disconnected, will reconnect shortly
+Sep 26 09:19 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 26 10:13 : avahi: Service 'Music Player' successfully established.
+Sep 26 20:45 : avahi: Client Disconnected, will reconnect shortly
+Sep 26 20:45 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 27 08:30 : avahi: Service 'Music Player' successfully established.
+Sep 27 10:14 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 27 10:14 : avahi: Service 'Music Player' successfully established.
+Sep 27 10:32 : avahi: Client Disconnected, will reconnect shortly
+Sep 27 10:32 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 27 10:51 : avahi: Service 'Music Player' successfully established.
+Sep 27 11:02 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 30 15:20 : avahi: Service 'Music Player' successfully established.
+Sep 30 18:38 : player: played "17. Stefano Favelli - Notturno.mp3"
+Sep 30 18:40 : avahi: Service 'Music Player' successfully established.
+Oct 01 11:38 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 01 11:39 : avahi: Service 'Music Player' successfully established.
+Oct 01 20:12 : avahi: Client Disconnected, will reconnect shortly
+Oct 01 20:12 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 02 08:16 : avahi: Service 'Music Player' successfully established.
+Oct 02 20:15 : avahi: Client Disconnected, will reconnect shortly
+Oct 02 20:15 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 03 08:16 : avahi: Service 'Music Player' successfully established.
+Oct 03 11:15 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 03 11:15 : avahi: Service 'Music Player' successfully established.
+Oct 03 20:10 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 04 08:54 : avahi: Service 'Music Player' successfully established.
+Oct 04 18:55 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 04 18:55 : avahi: Service 'Music Player' successfully established.
+Oct 04 18:56 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 04 18:56 : avahi: Service 'Music Player' successfully established.
+Oct 04 19:00 : avahi: Client Disconnected, will reconnect shortly
+Oct 04 19:00 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 04 19:05 : avahi: Service 'Music Player' successfully established.
+Oct 04 19:05 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 05 08:55 : avahi: Service 'Music Player' successfully established.
+Oct 05 09:59 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 05 10:00 : avahi: Service 'Music Player' successfully established.
+Oct 05 20:05 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 06 09:12 : avahi: Service 'Music Player' successfully established.
+Oct 06 21:43 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 07 10:00 : avahi: Service 'Music Player' successfully established.
+Oct 07 22:02 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 08 10:18 : avahi: Service 'Music Player' successfully established.
+Oct 08 22:50 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 09 09:16 : avahi: Service 'Music Player' successfully established.
+Oct 09 18:46 : avahi: Client Disconnected, will reconnect shortly
+Oct 09 18:46 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 10 08:50 : avahi: Service 'Music Player' successfully established.
+Oct 10 11:01 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 10 11:02 : avahi: Service 'Music Player' successfully established.
+Oct 10 19:05 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 11 09:50 : avahi: Service 'Music Player' successfully established.
+Oct 11 19:00 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 12 09:17 : avahi: Service 'Music Player' successfully established.
+Oct 12 17:14 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 13 10:15 : avahi: Service 'Music Player' successfully established.
+Oct 13 12:58 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 13 17:31 : avahi: Service 'Music Player' successfully established.
+Oct 13 17:52 : avahi: Client Disconnected, will reconnect shortly
+Oct 13 17:52 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 14 09:41 : avahi: Service 'Music Player' successfully established.
+Oct 14 12:39 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 15 11:22 : avahi: Service 'Music Player' successfully established.
+Oct 15 20:25 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 16 08:21 : avahi: Service 'Music Player' successfully established.
+Oct 16 18:41 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 17 10:07 : avahi: Service 'Music Player' successfully established.
+Oct 17 17:51 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 18 07:45 : avahi: Service 'Music Player' successfully established.
+Oct 18 09:27 : avahi: Client Disconnected, will reconnect shortly
+Oct 18 09:27 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 20 18:22 : avahi: Service 'Music Player' successfully established.
+Oct 20 20:42 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 21 08:10 : avahi: Service 'Music Player' successfully established.
+Oct 21 08:43 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 21 08:48 : avahi: Service 'Music Player' successfully established.
+Oct 21 10:30 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 21 10:45 : avahi: Service 'Music Player' successfully established.
+Oct 21 22:16 : avahi: Client Disconnected, will reconnect shortly
+Oct 21 22:16 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 22 09:34 : avahi: Service 'Music Player' successfully established.
+Oct 22 19:33 : avahi: Client Disconnected, will reconnect shortly
+Oct 22 19:33 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 23 08:39 : avahi: Service 'Music Player' successfully established.
+Oct 23 20:13 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 24 08:47 : avahi: Service 'Music Player' successfully established.
+Oct 24 21:32 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 25 08:46 : avahi: Service 'Music Player' successfully established.
+Oct 25 20:18 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 26 08:59 : avahi: Service 'Music Player' successfully established.
+Oct 26 20:24 : avahi: Client Disconnected, will reconnect shortly
+Oct 26 20:24 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 27 07:45 : avahi: Service 'Music Player' successfully established.
+Oct 27 18:24 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 28 08:34 : avahi: Service 'Music Player' successfully established.
+Oct 28 18:03 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 29 10:52 : avahi: Service 'Music Player' successfully established.
+Oct 29 13:16 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 29 13:19 : avahi: Service 'Music Player' successfully established.
+Oct 29 14:51 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 29 16:54 : avahi: Service 'Music Player' successfully established.
+Oct 29 20:45 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 30 08:40 : avahi: Service 'Music Player' successfully established.
+Oct 30 20:18 : player: played "17. Stefano Favelli - Notturno.mp3"
+Oct 31 18:22 : avahi: Service 'Music Player' successfully established.
+Oct 31 18:54 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 02 20:31 : avahi: Service 'Music Player' successfully established.
+Nov 02 20:52 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 04 18:55 : avahi: Service 'Music Player' successfully established.
+Nov 04 21:30 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 05 09:22 : avahi: Service 'Music Player' successfully established.
+Nov 05 19:32 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 06 13:52 : avahi: Service 'Music Player' successfully established.
+Nov 06 15:40 : avahi: Client Disconnected, will reconnect shortly
+Nov 06 15:40 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 06 19:26 : avahi: Service 'Music Player' successfully established.
+Nov 06 20:00 : avahi: Client Disconnected, will reconnect shortly
+Nov 06 20:00 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 07 10:53 : avahi: Service 'Music Player' successfully established.
+Nov 07 18:23 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 08 10:00 : avahi: Service 'Music Player' successfully established.
+Nov 08 20:55 : avahi: Client Disconnected, will reconnect shortly
+Nov 08 20:55 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 12 08:45 : avahi: Service 'Music Player' successfully established.
+Nov 12 10:35 : avahi: Client Disconnected, will reconnect shortly
+Nov 12 10:35 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 12 10:35 : avahi: Service 'Music Player' successfully established.
+Nov 12 18:36 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 12 19:05 : avahi: Service 'Music Player' successfully established.
+Nov 12 19:10 : avahi: Client Disconnected, will reconnect shortly
+Nov 12 19:10 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 13 08:38 : avahi: Service 'Music Player' successfully established.
+Nov 13 11:51 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 13 11:52 : avahi: Service 'Music Player' successfully established.
+Nov 13 17:37 : avahi: Client Disconnected, will reconnect shortly
+Nov 13 17:37 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 13 17:37 : avahi: Service 'Music Player' successfully established.
+Nov 13 20:38 : avahi: Client Disconnected, will reconnect shortly
+Nov 13 20:38 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 14 15:59 : avahi: Service 'Music Player' successfully established.
+Nov 14 16:22 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 14 16:22 : avahi: Service 'Music Player' successfully established.
+Nov 14 16:39 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 14 16:39 : avahi: Service 'Music Player' successfully established.
+Nov 14 18:35 : avahi: Client Disconnected, will reconnect shortly
+Nov 14 18:35 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 15 08:57 : avahi: Service 'Music Player' successfully established.
+Nov 15 13:37 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 15 13:37 : avahi: Service 'Music Player' successfully established.
+Nov 15 13:44 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 15 13:52 : avahi: Service 'Music Player' successfully established.
+Nov 15 18:27 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 15 18:35 : avahi: Service 'Music Player' successfully established.
+Nov 15 18:57 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 15 18:58 : avahi: Service 'Music Player' successfully established.
+Nov 15 20:07 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 16 08:28 : avahi: Service 'Music Player' successfully established.
+Nov 16 09:57 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 16 09:57 : avahi: Service 'Music Player' successfully established.
+Nov 16 20:55 : avahi: Client Disconnected, will reconnect shortly
+Nov 16 20:55 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 17 10:16 : avahi: Service 'Music Player' successfully established.
+Nov 17 19:36 : avahi: Client Disconnected, will reconnect shortly
+Nov 17 19:36 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 18 20:32 : avahi: Service 'Music Player' successfully established.
+Nov 18 20:42 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 19 11:45 : avahi: Service 'Music Player' successfully established.
+Nov 19 12:05 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 19 13:17 : avahi: Service 'Music Player' successfully established.
+Nov 19 13:19 : avahi: Client Disconnected, will reconnect shortly
+Nov 19 13:19 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 19 13:19 : avahi: Service 'Music Player' successfully established.
+Nov 19 13:28 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 21 12:34 : avahi: Service 'Music Player' successfully established.
+Nov 21 14:11 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 22 11:19 : avahi: Service 'Music Player' successfully established.
+Nov 22 11:31 : avahi: Client Disconnected, will reconnect shortly
+Nov 22 11:31 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 25 16:10 : avahi: Service 'Music Player' successfully established.
+Nov 25 16:26 : avahi: Client Disconnected, will reconnect shortly
+Nov 25 16:26 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 26 09:09 : avahi: Service 'Music Player' successfully established.
+Nov 26 09:53 : avahi: Client Disconnected, will reconnect shortly
+Nov 26 09:53 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 26 10:06 : avahi: Service 'Music Player' successfully established.
+Nov 26 18:20 : avahi: Client Disconnected, will reconnect shortly
+Nov 26 18:20 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 27 08:17 : avahi: Service 'Music Player' successfully established.
+Nov 27 18:16 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 28 08:42 : avahi: Service 'Music Player' successfully established.
+Nov 28 14:14 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 28 18:17 : avahi: Service 'Music Player' successfully established.
+Nov 28 19:10 : avahi: Client Disconnected, will reconnect shortly
+Nov 28 19:10 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 29 08:08 : avahi: Service 'Music Player' successfully established.
+Nov 29 18:48 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 30 09:03 : avahi: Service 'Music Player' successfully established.
+Nov 30 17:34 : avahi: Client Disconnected, will reconnect shortly
+Nov 30 17:34 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 30 18:59 : avahi: Service 'Music Player' successfully established.
+Nov 30 19:01 : player: played "17. Stefano Favelli - Notturno.mp3"
+Nov 30 19:01 : avahi: Service 'Music Player' successfully established.
+Nov 30 19:21 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 02 09:00 : avahi: Service 'Music Player' successfully established.
+Dec 02 12:03 : avahi: Client Disconnected, will reconnect shortly
+Dec 02 12:03 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 02 12:03 : avahi: Service 'Music Player' successfully established.
+Dec 02 17:50 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 04 11:43 : avahi: Service 'Music Player' successfully established.
+Dec 04 11:46 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 04 11:46 : avahi: Service 'Music Player' successfully established.
+Dec 04 18:09 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 04 18:09 : avahi: Service 'Music Player' successfully established.
+Dec 04 18:13 : avahi: Client Disconnected, will reconnect shortly
+Dec 04 18:13 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 05 08:25 : avahi: Service 'Music Player' successfully established.
+Dec 05 09:16 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 05 09:17 : avahi: Service 'Music Player' successfully established.
+Dec 05 09:41 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 05 09:41 : avahi: Service 'Music Player' successfully established.
+Dec 05 09:44 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 05 09:45 : avahi: Service 'Music Player' successfully established.
+Dec 05 10:01 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 05 10:01 : avahi: Service 'Music Player' successfully established.
+Dec 05 10:17 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 05 10:17 : avahi: Service 'Music Player' successfully established.
+Dec 05 10:28 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 05 10:28 : avahi: Service 'Music Player' successfully established.
+Dec 05 12:06 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 05 12:07 : avahi: Service 'Music Player' successfully established.
+Dec 05 19:44 : avahi: Client Disconnected, will reconnect shortly
+Dec 05 19:44 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 06 08:43 : avahi: Service 'Music Player' successfully established.
+Dec 06 19:37 : avahi: Client Disconnected, will reconnect shortly
+Dec 06 19:37 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 07 12:09 : avahi: Service 'Music Player' successfully established.
+Dec 07 19:30 : avahi: Client Disconnected, will reconnect shortly
+Dec 07 19:30 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 08 08:36 : avahi: Service 'Music Player' successfully established.
+Dec 08 17:02 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 08 17:02 : avahi: Service 'Music Player' successfully established.
+Dec 08 19:56 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 09 08:48 : avahi: Service 'Music Player' successfully established.
+Dec 09 09:39 : avahi: Client Disconnected, will reconnect shortly
+Dec 09 09:39 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 10 17:58 : avahi: Service 'Music Player' successfully established.
+Dec 10 18:24 : avahi: Client Disconnected, will reconnect shortly
+Dec 10 18:24 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 11 09:34 : avahi: Service 'Music Player' successfully established.
+Dec 11 19:04 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 12 08:22 : avahi: Service 'Music Player' successfully established.
+Dec 12 09:16 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 12 09:17 : avahi: Service 'Music Player' successfully established.
+Dec 12 17:51 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 12 17:51 : avahi: Service 'Music Player' successfully established.
+Dec 12 20:31 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 13 10:59 : avahi: Service 'Music Player' successfully established.
+Dec 13 13:02 : avahi: Client Disconnected, will reconnect shortly
+Dec 13 13:02 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 13 13:02 : avahi: Service 'Music Player' successfully established.
+Dec 13 17:58 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 14 08:55 : avahi: Service 'Music Player' successfully established.
+Dec 14 09:21 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 14 09:22 : avahi: Service 'Music Player' successfully established.
+Dec 14 09:28 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 14 09:28 : avahi: Service 'Music Player' successfully established.
+Dec 14 09:33 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 14 09:33 : avahi: Service 'Music Player' successfully established.
+Dec 14 10:08 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 14 10:09 : avahi: Service 'Music Player' successfully established.
+Dec 14 11:42 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 14 11:42 : avahi: Service 'Music Player' successfully established.
+Dec 14 11:46 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 14 11:46 : avahi: Service 'Music Player' successfully established.
+Dec 14 16:38 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 14 16:38 : avahi: Service 'Music Player' successfully established.
+Dec 14 18:15 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 14 18:15 : avahi: Service 'Music Player' successfully established.
+Dec 14 22:02 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 15 09:38 : avahi: Service 'Music Player' successfully established.
+Dec 15 10:07 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 15 10:07 : avahi: Service 'Music Player' successfully established.
+Dec 15 10:57 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 15 10:58 : avahi: Service 'Music Player' successfully established.
+Dec 15 19:43 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 16 09:38 : avahi: Service 'Music Player' successfully established.
+Dec 16 18:59 : avahi: Client Disconnected, will reconnect shortly
+Dec 16 18:59 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 17 09:51 : avahi: Service 'Music Player' successfully established.
+Dec 17 13:27 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 17 13:27 : avahi: Service 'Music Player' successfully established.
+Dec 17 13:36 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 17 13:36 : avahi: Service 'Music Player' successfully established.
+Dec 17 13:37 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 17 13:38 : avahi: Service 'Music Player' successfully established.
+Dec 17 18:31 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 17 18:31 : avahi: Service 'Music Player' successfully established.
+Dec 17 18:37 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 17 18:37 : avahi: Service 'Music Player' successfully established.
+Dec 17 19:29 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 18 09:12 : avahi: Service 'Music Player' successfully established.
+Dec 18 18:33 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 18 19:37 : avahi: Service 'Music Player' successfully established.
+Dec 18 19:51 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 19 08:59 : avahi: Service 'Music Player' successfully established.
+Dec 19 18:21 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 20 09:47 : avahi: Service 'Music Player' successfully established.
+Dec 20 12:41 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 20 12:41 : avahi: Service 'Music Player' successfully established.
+Dec 20 17:51 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 20 17:51 : avahi: Service 'Music Player' successfully established.
+Dec 20 17:55 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 20 17:55 : avahi: Service 'Music Player' successfully established.
+Dec 20 18:18 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 20 18:19 : avahi: Service 'Music Player' successfully established.
+Dec 20 18:25 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 20 18:25 : avahi: Service 'Music Player' successfully established.
+Dec 20 18:28 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 21 09:51 : avahi: Service 'Music Player' successfully established.
+Dec 21 11:01 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 21 11:01 : avahi: Service 'Music Player' successfully established.
+Dec 21 11:16 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 21 11:16 : avahi: Service 'Music Player' successfully established.
+Dec 21 20:34 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 22 08:26 : avahi: Service 'Music Player' successfully established.
+Dec 22 20:59 : avahi: Client Disconnected, will reconnect shortly
+Dec 22 20:59 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 23 11:05 : avahi: Service 'Music Player' successfully established.
+Dec 23 16:41 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 23 16:41 : avahi: Service 'Music Player' successfully established.
+Dec 23 17:41 : avahi: Service 'Music Player' successfully established.
+Dec 23 17:42 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 24 09:42 : avahi: Service 'Music Player' successfully established.
+Dec 24 18:26 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 25 08:43 : avahi: Service 'Music Player' successfully established.
+Dec 25 17:56 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 26 08:23 : avahi: Service 'Music Player' successfully established.
+Dec 26 16:08 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 26 16:08 : avahi: Service 'Music Player' successfully established.
+Dec 26 16:46 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 26 16:46 : avahi: Service 'Music Player' successfully established.
+Dec 26 17:31 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 27 10:28 : avahi: Service 'Music Player' successfully established.
+Dec 27 17:54 : avahi: Service 'Music Player' successfully established.
+Dec 27 19:43 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 28 09:34 : avahi: Service 'Music Player' successfully established.
+Dec 28 19:06 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 28 20:09 : avahi: Service 'Music Player' successfully established.
+Dec 28 20:14 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 29 09:44 : avahi: Service 'Music Player' successfully established.
+Dec 29 17:39 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 30 09:12 : avahi: Service 'Music Player' successfully established.
+Dec 30 09:27 : avahi: Client Disconnected, will reconnect shortly
+Dec 30 09:27 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 30 09:27 : avahi: Service 'Music Player' successfully established.
+Dec 30 09:31 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 30 09:31 : avahi: Service 'Music Player' successfully established.
+Dec 30 18:32 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 30 21:13 : avahi: Service 'Music Player' successfully established.
+Dec 30 21:15 : player: played "17. Stefano Favelli - Notturno.mp3"
+Dec 31 09:53 : avahi: Service 'Music Player' successfully established.
+Dec 31 21:05 : player: played "17. Stefano Favelli - Notturno.mp3"
+Jan 01 09:46 : avahi: Service 'Music Player' successfully established.
+Jan 01 10:49 : player: played "17. Stefano Favelli - Notturno.mp3"
+Jan 01 10:55 : avahi: Service 'Music Player' successfully established.
+Jan 01 11:20 : player: played "17. Stefano Favelli - Notturno.mp3"
+Jan 01 11:52 : avahi: Service 'Music Player' successfully established.
+Jan 01 19:04 : avahi: Client Disconnected, will reconnect shortly
+Jan 01 19:04 : player: played "17. Stefano Favelli - Notturno.mp3"
+Jan 01 21:14 : avahi: Service 'Music Player' successfully established.
+Jan 01 21:42 : player: played "17. Stefano Favelli - Notturno.mp3"
+Jan 02 10:16 : avahi: Service 'Music Player' successfully established.
+Jan 02 21:06 : player: played "17. Stefano Favelli - Notturno.mp3"
+Jan 02 21:09 : avahi: Service 'Music Player' successfully established.
+Jan 02 21:23 : avahi: Client Disconnected, will reconnect shortly
+Jan 02 21:23 : player: played "17. Stefano Favelli - Notturno.mp3"
+Jan 03 10:23 : avahi: Service 'Music Player' successfully established.
+Jan 03 19:19 : player: played "17. Stefano Favelli - Notturno.mp3"
+Jan 03 20:14 : avahi: Service 'Music Player' successfully established.
+Jan 03 20:39 : player: played "17. Stefano Favelli - Notturno.mp3"
+Jan 04 09:32 : avahi: Service 'Music Player' successfully established.
+Jan 05 08:27 : player: played "17. Stefano Favelli - Notturno.mp3"
+Jan 05 10:52 : avahi: Service 'Music Player' successfully established.
+Jan 05 18:30 : player: played "17. Stefano Favelli - Notturno.mp3"
+Jan 06 10:27 : avahi: Service 'Music Player' successfully established.
+Jan 06 13:10 : player: played "17. Stefano Favelli - Notturno.mp3"
+Jan 06 18:08 : avahi: Service 'Music Player' successfully established.
